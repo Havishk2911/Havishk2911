@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on building websites and sharpening my dev skills as a CSE student<br> I'm looking to collaborate on web development projects and open-source builds<br> I'm looking for help with making Lovable projects production-ready<br> I'm currently learning C++, Java, and Data Structures & Algorithms (DSA)<br> Ask me about Photography, photo editing, AI tools, or anything about building websites from scratch<br> Fun fact I discover music nobody's heard of and I'm convinced mainstream playlists are a crime
+CSE student building websites and sharpening my dev skills along the way. Right now I'm deep in C++, Java, and DSA. Always up for collaborating on web dev or open-source projects, and I like helping people take their Lovable builds from prototype to production-ready. Hit me up about photography, photo editing, AI tools, or web development basics. Fun fact: I have a habit of finding music nobody's ever heard of, mainstream playlists are honestly a crime.
 
 
 ## 🌐 Socials:
