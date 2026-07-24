@@ -53,6 +53,4 @@ Fun fact: I have a habit of finding music nobody's ever heard of, mainstream pla
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Havishk2911/Havishk2911/output/github-contribution-grid-snake.svg" />
 </picture>
  
----
- 
-![Visitors](https://komarev.com/ghpvc/?username=Havishk2911&color=blue&style=flat)
+
