@@ -1,14 +1,59 @@
-# 💫 About Me:
-CSE student building websites and sharpening my dev skills along the way. Right now I'm deep in C++, Java, and DSA. Always up for collaborating on web dev or open-source projects, and I like helping people take their Lovable builds from prototype to production-ready. Hit me up about photography, photo editing, AI tools, or web development basics. Fun fact: I have a habit of finding music nobody's ever heard of, mainstream playlists are honestly a crime.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/why._havishk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/havishk-gor-9aaa2b399) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Havishk_Gor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:havishkgor@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
+# Hey, I'm Havishk 👋
+ 
+CSE student building websites and sharpening my dev skills along the way. Right now I'm deep in C++, Java, and DSA. Always up for collaborating on web dev or open-source projects, and I like helping people take their Lovable builds from prototype to production-ready. Hit me up about photography, photo editing, AI tools, or web development basics.
+ 
+Fun fact: I have a habit of finding music nobody's ever heard of, mainstream playlists are honestly a crime.
+ 
+### 🔭 Currently
+- Building an online code execution platform for Indian college students (React + Monaco Editor + Supabase + Judge0)
+- Working through DSA on LeetCode with interview prep as the endgame
+- Freelancing on a coaching/course website build
+---
+ 
+### 🌐 Socials
+ 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/why._havishk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/havishk-gor-9aaa2b399) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Havishk_Gor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:havishkgor@gmail.com)
+ 
+---
+ 
+### 💻 Dev Stack
+ 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ 
+### 🎨 Creative Tools
+ 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+ 
+### 🎮 Off-Duty
+ 
+![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+ 
+---
+ 
+### 📌 A Few Things I want to Build
+- **Online IDE Platform** — a multi-user code execution playground built for college students, still in progress
+- **Client site for a coaching/course business** — freelance build, full requirements-to-delivery
+---
+ 
+### 📊 GitHub Stats
+ 
 ![](https://github-readme-stats.shion.dev/api?username=Havishk2911&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Havishk2911&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Havishk2911&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Havishk2911&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
+ 
+### 🏆 Trophies
+ 
+![](https://github-profile-trophy.vercel.app/?username=Havishk2911&theme=algolia&no-frame=true&row=1&column=7)
+ 
+### 🐍 Contribution Snake
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Havishk2911/Havishk2911/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Havishk2911/Havishk2911/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Havishk2911/Havishk2911/output/github-contribution-grid-snake.svg" />
+</picture>
+*(needs the `snake.yml` action set up and run once — see below)*
+ 
+---
+ 
+![Visitors](https://komarev.com/ghpvc/?username=Havishk2911&color=blue&style=flat)
