@@ -52,7 +52,6 @@ Fun fact: I have a habit of finding music nobody's ever heard of, mainstream pla
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Havishk2911/Havishk2911/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Havishk2911/Havishk2911/output/github-contribution-grid-snake.svg" />
 </picture>
-*(needs the `snake.yml` action set up and run once — see below)*
  
 ---
  
