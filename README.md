@@ -4,10 +4,6 @@ CSE student building websites and sharpening my dev skills along the way. Right 
  
 Fun fact: I have a habit of finding music nobody's ever heard of, mainstream playlists are honestly a crime.
  
-### 🔭 Currently
-- Building an online code execution platform for Indian college students (React + Monaco Editor + Supabase + Judge0)
-- Working through DSA on LeetCode with interview prep as the endgame
-- Freelancing on a coaching/course website build
 ---
  
 ### 🌐 Socials
