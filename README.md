@@ -1,9 +1,5 @@
 # Hey, I'm Havishk 👋
  
-CSE student building websites and sharpening my dev skills along the way. Right now I'm deep in C++, Java, and DSA. Always up for collaborating on web dev or open-source projects, and I like helping people take their Lovable builds from prototype to production-ready. Hit me up about photography, photo editing, AI tools, or web development basics.
- 
-Fun fact: I have a habit of finding music nobody's ever heard of, mainstream playlists are honestly a crime.
- 
 ---
 
 ```bash
