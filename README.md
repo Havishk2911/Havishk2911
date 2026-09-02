@@ -5,6 +5,27 @@ CSE student building websites and sharpening my dev skills along the way. Right 
 Fun fact: I have a habit of finding music nobody's ever heard of, mainstream playlists are honestly a crime.
  
 ---
+
+```bash
+havishk@dev:~$ whoami
+Havishk — CSE student, web dev, DSA grinder
+
+havishk@dev:~$ cat about.txt
+Building web projects with Lovable + Supabase + Netlify
+Currently deep in C++, Java, and DSA
+Also messes with Arduino — built a self-driving car & a voice assistant
+
+havishk@dev:~$ ls ./skills
+c++/  java/  python/  react/  supabase/  arduino/
+
+havishk@dev:~$ cat currently.md
+🔭 Building an online code execution platform for college students
+🎧 Finding music nobody's heard of (mainstream playlists are a crime)
+
+havishk@dev:~$ _
+```
+
+---
  
 ### 🌐 Socials
  
